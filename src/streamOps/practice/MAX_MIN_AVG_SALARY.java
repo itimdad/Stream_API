@@ -1,4 +1,4 @@
-package streamOps.interview;
+package streamOps.practice;
 
 
 import java.util.Arrays;

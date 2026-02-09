@@ -1,10 +1,8 @@
-package streamOps.interview;
+package streamOps.practice;
 
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.Comparator;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class Sort_Num {
 
